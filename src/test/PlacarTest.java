@@ -3,6 +3,7 @@ package test;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+import org.junit.jupiter.api.BeforeAll;
 
 import main.Placar;
 
