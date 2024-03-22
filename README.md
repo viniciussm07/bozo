@@ -10,7 +10,7 @@ In the project root directory run
 javac -d bin src/main/*
 ```
 
-to compile the classes and
+and after
 
 ```bash
 java -cp bin main.Bozo
